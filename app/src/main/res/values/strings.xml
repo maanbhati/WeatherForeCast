@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherForeCast</string>
+    <string name="api_key">30151d4c5586ae51ab4c810eaef79e35</string>
+    <string name="prompt_city">Enter city name</string>
+    <string name="prompt_country">Country code</string>
+    <string name="action_search_weather">Search Weather ForeCast</string>
+    <string name="error_field_required">This field cannot be empty!</string>
+    <string name="error_incorrect_city_name">Incorrect data !</string>
+    <string name="error_http_url_connection">Error in HttpUrlConnections</string>
+    <string name="alert">!Alert</string>
+    <string name="check_network">Please check your network connection.</string>
+    <string name="ok">Ok</string>
+</resources>
